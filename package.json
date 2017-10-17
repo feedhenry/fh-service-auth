@@ -1,6 +1,6 @@
 {
   "name": "fh-service-auth",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Authentication Module For Service Access",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   "dependencies": {
     "async": "1.5.2",
     "bunyan": "1.8.5",
-    "mongoose": "4.4.19",
+    "mongoose": "4.11.14",
     "underscore": "1.8.3"
   },
   "devDependencies": {
